@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Chevy",
+    "price": 15000,
+    "year": 2015,
+    "contact": {
+      "dealer" : "Laith",
+      "number" : "111-222-333-444"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bentley",
+    "price": 215000,
+    "year": 2021,
+    "contact": {
+      "dealer" : "Sagar",
+      "number" : "323-222-333-444"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ford",
+    "price": 500000,
+    "year": 2018,
+    "contact": {
+      "dealer" : "Amit",
+      "number" : "434-222-333-444"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Land Rover",
+    "price": 7855000,
+    "year": 2019,
+    "contact": {
+      "dealer" : "Niloy",
+      "number" : "422-222-333-444"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Toyota",
+    "price": 185000,
+    "year": 2025,
+    "contact": {
+      "dealer" : "Hasib",
+      "number" : "756-222-333-444"
+    }
+  }
+]
